@@ -14,6 +14,7 @@ public class GameBoard {
             }
         }
 
+    // starts the game
     public void startGame() {
         boolean gameStatus = true;
         while (gameStatus) {
